@@ -1,7 +1,11 @@
 
 # Welcome to your CDK Python project!
 
-This is a blank project for CDK development with Python.
+To run this code in your local. you need to run following commands.
+1. `aws configure` - configuring aws credentials
+2. `npm install -g aws-cdk` - installing cdk
+3. `python -m pip install -r requirements.txt`
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
